@@ -8,8 +8,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/Lanes1k/fetch-failed"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-fetch-failed-dark.svg"><img src="assets/project-fetch-failed-light.svg" width="49%" alt="fetch-failed"></picture></a>&nbsp;<a href="https://github.com/Lanes1k/Xneon-Launcher"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-xneon-launcher-dark.svg"><img src="assets/project-xneon-launcher-light.svg" width="49%" alt="Xneon-Launcher"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
